@@ -1,16 +1,18 @@
 # belajar-opencv
-Mendeteksi wajah dan mata menggunakan library open-cv python
+Install dependency :
 
 ```
 $ pip install -r requirements.txt
 ```
 
-Mendeteksi Wajah dan Mata secara Realtime dengan Webcam
+Run untuk mendeteksi wajah dan mata secara Realtime dengan Webcam
+
 ```
 $ python app.py
 ```
 
-Mendeteksi Wajah dan Mata menggunakan path image
+Run untuk mendeteksi wajah dan mata menggunakan path image
+
 ```
 $ python app-image.py path/to/image
 ```
