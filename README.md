@@ -7,13 +7,13 @@ pip install -r requirements.txt
 ```
 
 # Run
-Realtime face and eyes detection on webcam
+- Realtime face and eyes detection on webcam
 
 ```
-$ python app.py
+python app.py
 ```
 
-face and eyes detection with image path
+- Face and eyes detection with image path
 
 ```
 python app-image.py path/to/image
