@@ -1,22 +1,20 @@
 # Setup
 
-Install dependency :
-
 ```
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 # Run
 - Realtime face and eyes detection on webcam
 
 ```
-python app.py
+$ python app.py
 ```
 
 - Face and eyes detection with image path
 
 ```
-python app-image.py path/to/image
+$ python app-image.py path/to/image
 ```
 
 ![einstein](https://user-images.githubusercontent.com/73166558/122932305-d27f1b80-d397-11eb-9f84-8d7b43d88868.jpg)
